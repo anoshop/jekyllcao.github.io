@@ -18,9 +18,9 @@ description: 极简可用教程。
 设置你域名的dns信息如下：
 
 > host:www.ABC.com   type: CNAME   value: ABC.github.io
----- 
+
 > host:@.ABC.com     type: a       value: 192.30.252.154
----- 
+
 > host:@.ABC.com     type: a       value: 192.30.252.153
 
 # 步骤3： 安装jekyll到你的本机
