@@ -18,7 +18,9 @@ description: 极简可用教程。
 设置你域名的dns信息如下：
 
 > host:www.ABC.com   type: CNAME   value: ABC.github.io
+---- 
 > host:@.ABC.com     type: a       value: 192.30.252.154
+---- 
 > host:@.ABC.com     type: a       value: 192.30.252.153
 
 # 步骤3： 安装jekyll到你的本机
@@ -33,8 +35,11 @@ description: 极简可用教程。
 # 步骤4： 了解一下jekyll的代码组成架构即可
 
 > _config.yml 配置文件
+---- 
 > _layouts 网站的布局目录，
+---- 
 > _posts  这个目录存放的都是你的文章，文章格式为markdown格式，后缀md
+---- 
 > _sites  这个不用管，用不上。
 
 跟我们有关系的也就是post目录了，以后你写好每篇文章都存放在这里既可，其他的无需理会，_内容为主，先用了再说，如果真合适，能坚持下去了，在自定义也不迟_
