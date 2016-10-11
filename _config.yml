@@ -1,8 +1,11 @@
 auto: true
 
 markdown: kramdown
+kramdown:
+    input: GFM
 
 highlighter: rouge
+permalink: /:year/:month/:day/:title.html
 #paginate: 8
 permalink: /:title
 
