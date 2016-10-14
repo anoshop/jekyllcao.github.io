@@ -9,3 +9,5 @@ _posts/dump/.Ulysses-Group.plist
 _posts/blog/.Ulysses-Group.plist
 
 _posts/project/.Ulysses-Group.plist
+
+*.plist
