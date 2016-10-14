@@ -3,7 +3,7 @@ auto: true
 markdown: kramdown
 highlighter: rouge
 #paginate: 8
-permalink: /:title
+permalink: /:year/:month/:day/:title.html
 
 name: “Sunorg”
 title: Sunorg
