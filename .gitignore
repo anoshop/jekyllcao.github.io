@@ -11,3 +11,7 @@ _posts/blog/.Ulysses-Group.plist
 _posts/project/.Ulysses-Group.plist
 
 *.plist
+
+_posts/.Ulysses-favorites.plist
+
+*.plist
